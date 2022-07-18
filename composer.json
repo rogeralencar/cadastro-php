@@ -1,0 +1,11 @@
+{
+  "name": "projeto6/poo",
+  "authors": [
+    "Roger Alencar"
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  }
+}
